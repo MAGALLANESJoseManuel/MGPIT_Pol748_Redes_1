@@ -1,0 +1,136 @@
+source,target,weight
+Romero,Grana,1
+Romero,Miro Quesada,1
+Romero,Moreyra,1
+Romero,Fort,1
+Romero,De La Puente,1
+Romero,Onrubia,1
+Romero,Brescia,1
+Romero,Nicolini,1
+Romero,Bentin,1
+Romero,Benavides,1
+Romero,Bustamante,1
+Romero,Woodman Pollit,1
+Romero,Raffo,1
+Romero,Piazza,1
+Romero,Berckemeyer,1
+Romero,Llosa Barber,1
+Romero,Rizo Patron,1
+Romero,Montori,1
+Grana,Miro Quesada,1
+Grana,Fort,1
+Grana,De La Puente,1
+Grana,Wiese,1
+Grana,Montero,1
+Grana,Benavides,1
+Grana,Bustamante,1
+Grana,Piazza,1
+Grana,Beoutis Ledesma,1
+Grana,Michell,1
+Miro Quesada,Fort,1
+Miro Quesada,De La Puente,1
+Miro Quesada,Wiese,1
+Miro Quesada,Montero,1
+Miro Quesada,Benavides,1
+Miro Quesada,Bustamante,1
+Miro Quesada,Piazza,1
+Miro Quesada,Beoutis Ledesma,1
+Miro Quesada,Michell,1
+Moreyra,Fort,1
+Moreyra,De La Puente,1
+Moreyra,Wiese,1
+Moreyra,Onrubia,1
+Moreyra,Brescia,1
+Moreyra,Montero,1
+Moreyra,Picaso,1
+Moreyra,Bentin,1
+Moreyra,Bustamante,1
+Moreyra,Raffo,1
+Moreyra,Berckemeyer,1
+Moreyra,Rizo Patron,1
+Moreyra,Montori,1
+Moreyra,Sotomayor,1
+Fort,De La Puente,1
+Fort,Onrubia,1
+Fort,Brescia,1
+Fort,Nicolini,1
+Fort,Picaso,1
+Fort,Bentin,1
+Fort,Benavides,1
+Fort,Bustamante,1
+Fort,Woodman Pollit,1
+Fort,Raffo,1
+Fort,Piazza,1
+Fort,Llosa Barber,1
+Fort,Beoutis Ledesma,1
+Fort,Sotomayor,1
+Fort,Cilloniz,1
+De La Puente,Wiese,1
+De La Puente,Montero,1
+De La Puente,Benavides,1
+De La Puente,Bustamante,1
+De La Puente,Piazza,1
+De La Puente,Berckemeyer,1
+De La Puente,Beoutis Ledesma,1
+De La Puente,Rizo Patron,1
+De La Puente,Sotomayor,1
+Wiese,Montero,1
+Wiese,Berckemeyer,1
+Wiese,Beoutis Ledesma,1
+Wiese,Rizo Patron,1
+Wiese,Sotomayor,1
+Onrubia,Brescia,1
+Onrubia,Nicolini,1
+Onrubia,Bentin,1
+Onrubia,Woodman Pollit,1
+Onrubia,Raffo,1
+Onrubia,Berckemeyer,1
+Onrubia,Llosa Barber,1
+Onrubia,Montori,1
+Brescia,Bentin,1
+Brescia,Raffo,1
+Brescia,Berckemeyer,1
+Brescia,Montori,1
+Nicolini,Bentin,1
+Nicolini,Woodman Pollit,1
+Nicolini,Raffo,1
+Nicolini,Llosa Barber,1
+Nicolini,Rizo Patron,1
+Montero,Picaso,1
+Montero,Bustamante,1
+Montero,Beoutis Ledesma,1
+Montero,Ferreyros,1
+Picaso,Bustamante,1
+Picaso,Sotomayor,1
+Picaso,Cilloniz,1
+Bentin,Woodman Pollit,1
+Bentin,Raffo,1
+Bentin,Berckemeyer,1
+Bentin,Llosa Barber,1
+Bentin,Montori,1
+Bentin,Ferreyros,1
+Bentin,Wong Lu,1
+Benavides,Bustamante,1
+Benavides,Piazza,1
+Bustamante,Piazza,1
+Bustamante,Montori,1
+Bustamante,Cilloniz,1
+Bustamante,Ferreyros,1
+Woodman Pollit,Raffo,1
+Woodman Pollit,Berckemeyer,1
+Woodman Pollit,Llosa Barber,1
+Raffo,Berckemeyer,1
+Raffo,Llosa Barber,1
+Raffo,Montori,1
+Piazza,Llosa Barber,1
+Piazza,Beoutis Ledesma,1
+Berckemeyer,Llosa Barber,1
+Berckemeyer,Rizo Patron,1
+Berckemeyer,Montori,1
+Berckemeyer,Sotomayor,1
+Llosa Barber,Beoutis Ledesma,1
+Rizo Patron,Sotomayor,1
+Montori,Cilloniz,1
+Sotomayor,Cilloniz,1
+Batievsky Spack,Matos Escalada,1
+Batievsky Spack,Galsky,1
